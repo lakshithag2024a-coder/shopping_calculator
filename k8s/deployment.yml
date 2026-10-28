@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: lakshitha119/shopping-bill:IMAGE_TAG
+        image: lakshitha119/shopping-bill:2242cc0
         ports:
         - containerPort: 80
